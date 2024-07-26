@@ -1,10 +1,10 @@
-<h1 align="center">Selam 👋, Ben Mehmet Efe</h1>
-<h3 align="center">Sakarya Üniversitesi Bilgisayar Mühendisliği 3. Sınıf öğrencisiyim.</h3>
+<h1 align="center">Hi 👋, I'm Mehmet Efe</h1>
+<h3 align="center">I am a final year student in Computer Engineering at Sakarya University </h3>
 
-- 🔭  Yazılıma tam anlamıyla başladığımdan beri yazılım konusunda kendimi sürekli geliştirmeyi hedefliyorum. Öğrenmeye meraklı birisi olarak, teknolojileri yakından takip ediyor ve kendime yeni şeyler katmak için elimden geleni yapıyorum.
-- 🌱 Şu an aktif olarak **Web Programlama ve Yapay Zeka alanları ile ilgilenmekteyim.**
-- 👨‍💻 Tüm projelerime göz atmak için [tıklayabilirsiniz.](https://github.com/meferbas?tab=repositories)
-- 📫 Bana ulaşmak için:
+- 🔭 Since I started in the fields of software and information technology, I have been constantly making an effort to improve myself. As someone curious to learn, I closely follow technologies and add new skills to myself every day.
+- 🌱 Currently, I am actively interested in the field of **Backend Development.**
+- 👨‍💻 If you would like to view my projects [click here!](https://github.com/meferbas?tab=repositories)
+- 📫 You can reach to me:
 
 
 <a href="mailto:mefeerbas@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Mail-1a0582?style=for-the-badge&logo=gmail&logoColor=white" alt="mehmet-efe-erbas" /></a>
