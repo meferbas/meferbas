@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mehmet Efe</h1>
-<h3 align="center">I am a final year student in Computer Engineering at Sakarya University </h3>
+<h3 align="center">I've graduated with a Bachelor’s Degree in Computer Engineering from Sakarya University.</h3>
 
 - 🔭 Since I started in the fields of software and information technology, I have been constantly making an effort to improve myself. As someone curious to learn, I closely follow technologies and add new skills to myself every day.
-- 🌱 Currently, I am actively interested in the field of **Backend Development.**
 - 👨‍💻 If you would like to view my projects [click here!](https://github.com/meferbas?tab=repositories)
-- 📫 You can reach to me:
+- 📫 You can reach to me with these social medias below:
 
 
 <a href="mailto:mefeerbas@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Mail-1a0582?style=for-the-badge&logo=gmail&logoColor=white" alt="mehmet-efe-erbas" /></a>
